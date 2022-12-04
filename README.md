@@ -1,5 +1,5 @@
 # Rouglike Game Pre Release
-Most recent release of the game
+Most recent pre release of the game
 
 # Download
   1. Download build.zip
